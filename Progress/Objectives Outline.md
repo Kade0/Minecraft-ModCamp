@@ -5,10 +5,12 @@
   * GUI (creating mod tab in inventory)
 
 * ## TWO DAY CAMP!
+
+* ### Day One:
   * Creating Textures
   * Creating Blocks
   * Creating Items
-  ---
+* ### Day Two:
   * GUI, Block Coding
   * Entities
     * Biomes (Might be extra)
