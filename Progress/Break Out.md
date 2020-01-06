@@ -25,4 +25,15 @@
     * Click that green plus, but this time, select Recipe.
     * Name it "**your name**_Ingot_Recipe"
     * Select smelting for type of recipe, select your ore for the item and the ingot for the output, and then save it.
-    * 
+  * ## Making a Multi-Tool
+    * Click the green plus and select Tool. 
+    * Name it "**your name**'s Multi-Tool" and select MultiTool for Type.
+    * Harvest Level changes the type of blocks it can break (0 for wood tools, 1 for stone, 2 for iron, and 3 for diamond)
+    * Efficiency is how fast it can mine a block.
+    * Enchantability is the amount of enchantments it can hold.
+    * Damage vs. Mob/animal is self explanitory.
+    * Number of the uses is as well.
+  * ## Making the Tool Recipe
+    * Click the green plus and select Recipe.
+    * Give it the name MultiTool_Recipe
+    * Make your multitool however you want! For example, you can use your ingot OR you can use other items put together.
