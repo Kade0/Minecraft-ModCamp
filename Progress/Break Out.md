@@ -37,3 +37,20 @@
     * Click the green plus and select Recipe.
     * Give it the name MultiTool_Recipe
     * Make your multitool however you want! For example, you can use your ingot OR you can use other items put together.
+  * ## Making a Shuriken
+    * CLick on the resource tab on the left, then click import texture then import item texture. Find the shuriken file in the premade folder for the camp.
+    * Then import the texture again, but as a mob, gui, logo, etc.
+    * Click the green plus and click ranged item. Name it "Shuriken" and click the texture box to give it the texture we imported. 
+    * Set max stack size to 128, damage to mobs to 6, item usage count to 0, item representing texture of bullet to ANY block, Save mod element.
+    * Doubleclick your mod element, click next on the choose texture menu. Click "item for ammo" and go to your custom elements and set the shuriken. Set bullet damage to 10, set bullet knockback to 2. Select the box for item representing texture of bullet. Click on the custom elements and select shuriken.
+    
+    * Save!
+  * ## Shuriken Recipe
+    * Name the recipe "shuriken_recipe", make a  plus sign out of iron ingots and output amount to 32 and save.
+  * ## Advanced Shuriken
+    * Double click shuriken and the green plus under when bullet hits block. Click the world management tab, spawn gem at x,y,z out and attach it to the event trigger code. 
+    * Double click empty square next to the text gem. Click on custome elements and select the shuriken. Then save.
+  * ### Test it out!
+  * ## GUI
+    * Click the greeen plus and select Creative Tab from the menu. Give the tab the name **My_Mod_Tab**. Choose the tab icon, and show search bar. Set the tab for every mod item you have created. 
+  
