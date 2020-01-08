@@ -11,9 +11,9 @@
   * Creating Blocks
   * Creating Items
 * ### Day Two:
-  * GUI, Block Coding
+  * Creating Items continued (tools + weapons)
+  * GUI
   * Entities
-    * Biomes (Might be extra)
 
 * ## FULL WEEKEND CAMP!
 
