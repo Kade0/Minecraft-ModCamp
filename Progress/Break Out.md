@@ -51,10 +51,9 @@
     * Double click shuriken and the green plus under when bullet hits block. Click the world management tab, spawn gem at x,y,z out and attach it to the event trigger code. 
     * Double click empty square next to the text gem. Click on custome elements and select the shuriken. Then save.
   * ### Test it out!
-  
-  
+ 
 * # Two Day Camp!
-* ## DAY ONE
+* ## **DAY ONE**
   * ## Creating a new workspace
     * Click the green plus
     * Name it "**your name**_NewMod" (Here's the directory problem, I'm not sure how to solve it)
@@ -95,7 +94,7 @@
     * Give it the name MultiTool_Recipe
     * Make your multitool however you want! For example, you can use your ingot OR you can use other items put together.
   
-* ## DAY TWO
+* ## **DAY TWO**
   * ## Making a Shuriken
     * Click on the resource tab on the left, then click import texture then import item texture. Find the shuriken file in the premade folder for the camp.
     * Then import the texture again, but as a mob, gui, logo, etc.
@@ -131,7 +130,7 @@
   * ### Test it out!
  
 * # 3 day weekend camp!
-  * ## Friday
+  * ## **Friday**
   * ## Creating a new workspace
      * Click the green plus
      * Name it "**your name**_NewMod" (Here's the directory problem, I'm not sure how to solve it)
@@ -171,7 +170,7 @@
     * Click the green plus and select Recipe.
     * Give it the name MultiTool_Recipe
     * Make your multitool however you want! For example, you can use your ingot OR you can use other items put together.
-  * ## Saturday
+  * ## **Saturday**
   * ## Making a Shuriken
     * Click on the resource tab on the left, then click import texture then import item texture. Find the shuriken file in the premade folder for the camp.
     * Then import the texture again, but as a mob, gui, logo, etc.
@@ -205,7 +204,7 @@
   * ### Cookie Recipe 
     * 1 cookie in the middle, 4 ender pearls around it, 4 cookies will be made!
   * ### Test it out!
-  * ## Sunday
+  * ## **Sunday**
   * ## Scripting (Loot Block, this is the longest element of this camp!)
      * Click the green plus, adding a new block. Name it "Loot_Block", and give it the lootblock texture from the Premade Textures folder. Add it to your mod creative tab, give it a hardness of -1, resistance of 200, and make it unbreakable. Leave everything else default except for the Enable Tile Entity and Inventory box.
      * Lets create a GUI! Click the green plus and select GUI. We need to bind GUI to block and select loot block. Select add a button from the add a component area and add the text "Click Me!" and place it anywhere!
