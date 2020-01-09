@@ -28,6 +28,6 @@
   * Entities
   * More Items  (fluids + food)
 * ### Sun:
-  * Block Coding (loot block) 
+  * Scripting (loot block) 
   * Structures (might be omitted due to difficulty and lack of application)
   * Biomes
