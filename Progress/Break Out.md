@@ -113,6 +113,21 @@
     * Set behavioral characteristics to mob, type should be undefined, 100 health, 500 xp drop. Then give it .5 speed, 12 attack. Then you can give it immunities. Skip the particle page and also the procedure page.
     * The AI base will be set to Zombie. Then, check attack targets, call for help and move that to the top, as it is a higher priority for this mob.
     * Disable entity spawning, uncheck despawning and set spawn type to creature.
+  * ## More Items (Fluids + Food)
+  * ### Slime Ooze Fluid 
+    * Start by clicking the green plus and selecting fluid, naming it "Slime_Ooze",.
+    * Import the slime ooze texture from the Premade Textures folder and set it for both flowing and still.
+    * Set density and viscosity to 10,000, because slime is super thick!
+    * Save and test it out!
+  * ### Ender Cookie
+    * Click the green plus, name it "Ender_Cookie", import the texture and put it under our creative tab. 
+    * Give it a nutritional value of 0, set it to always edible, and give it the glowing effect, then click next page.
+    * Press the green plus for "When food eaten". 
+    * From player procedures, add switch dimension for the provided player to ID. Set dimension to 1 for the End.
+    * From entity procedures, add the "Move provided entity to x y z" block. Replace the variables with "Numbers" from the math tab, and set the coordinates to (0, 75, 0)
+    * Finally, from player procedures, add a set gamemode of the player to creative.
+  * ### Cookie Recipe 
+    * 1 cookie in the middle, 4 ender pearls around it, 4 cookies will be made!
   * ### Test it out!
  
  * # 3 day weekend camp!
@@ -150,7 +165,7 @@
     * Harvest Level changes the type of blocks it can break (0 for wood tools, 1 for stone, 2 for iron, and 3 for diamond)
     * Efficiency is how fast it can mine a block.
     * Enchantability is the amount of enchantments it can hold.
-    * Damage vs. Mob/animal is self explanitory.
+    * Damage vs. Mob/animal is self explanatory.
     * Number of the uses is as well.
   * ## Making the Tool Recipe
     * Click the green plus and select Recipe.
