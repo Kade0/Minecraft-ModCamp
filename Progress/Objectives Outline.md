@@ -8,23 +8,26 @@
 
 * ### Day One:
   * Creating Textures
+  * GUI
   * Creating Blocks
   * Creating Items
 * ### Day Two:
   * Creating Items continued (tools + weapons)
-  * GUI
   * Entities
+  * More Items (fluids + food)
 
 * ## FULL WEEKEND CAMP!
 
 * ### Fri: 
   * Creating Textures
+  * GUI
   * Creating Blocks
   * Creating Items
 * ### Sat:
-  * More Items 
-  * GUI, Block Coding
-* ### Sun:
-  * Structures (might be omitted due to difficulty and lack of application)
+  * Creating Items cont. (Tools + Weapons)
   * Entities
+  * More Items  (fluids + food)
+* ### Sun:
+  * Block Coding (loot block) 
+  * Structures (might be omitted due to difficulty and lack of application)
   * Biomes
