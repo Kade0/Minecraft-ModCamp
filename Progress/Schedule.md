@@ -55,16 +55,17 @@ Introductions, getting settled and talking about the activites for today
 slime ooze 
 
 ### 2:00pm - 2:30pm
-endercookie
-save and test
+Activity
 
 ### 2:30pm - 3:00pm
-scripting (lootbox)
+endercookie
+and recipe
 
 ### 3:00pm - 4:00pm
-lootbox and extra if finished early
+
 
 ### 4:00pm - 4:30pm
+Connect 4 tournament/ pick up
 
 # Camp Day 4
 
@@ -75,15 +76,39 @@ Drop off
 Introductions, getting settled and talking about the activites for today
 
 ### 1:00pm - 2:00pm
-
+Loot block!
 
 ### 2:00pm - 2:30pm
-
+Minecraft Bingo
 
 ### 2:30pm - 3:00pm
-
+Lootblock!
 
 ### 3:00pm - 4:00pm
-
+Biomes!
 
 ### 4:00pm - 4:30pm
+MAFIA game/ pick up
+
+# Camp Day 5
+
+### 12:15pm - 12:30pm
+Drop off
+
+### 12:30pm - 1:00pm
+Introductions, getting settled and talking about the activites for today
+
+### 1:00pm - 2:00pm
+dimension
+
+### 2:00pm - 2:30pm
+Minecraft Bingo
+
+### 2:30pm - 3:00pm
+dimension
+
+### 3:00pm - 4:00pm
+free play in your modded minecraft
+
+### 4:00pm - 4:30pm
+MAFIA game/ pick up
