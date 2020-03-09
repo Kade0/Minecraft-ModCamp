@@ -8,7 +8,7 @@
     * Generate from template (They can randomize or create with the drawing tools, based on what they want to make and skill)
     * ^^(See Image 1.2)
     * Click create and save texture as a new texture.
-    * Make one for an ingot, tool, block (and possibly armor, if they're finished early.)  
+    * Make one for an ingot, tool, block, ore (and possibly armor, if they're finished early.)  
   * ## GUI
     * Click the greeen plus and select Creative Tab from the menu. Give the tab the name **My_Mod_Tab**. Choose the tab icon, and show search bar. Set the tab for every mod item you have created. 
   * ## Creating a New Block
