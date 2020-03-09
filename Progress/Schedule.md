@@ -1,24 +1,41 @@
+(15 minute pad time
+30 minute activity
+1 hour instruction
+15 minute break
+30 minute activity 
+1 hour instruction
+15 pad time)
+
+
+
+
+
+
+
+
+
+
 # Camp Day 1
 ### 12:15pm - 12:30pm
 Drop off
 
 ### 12:30pm - 1:00pm
-Introductions, getting settled and talking about the activites for today
+Minecraft Jeprody
 
 ### 1:00pm - 2:00pm
-Making ALL necessary textures for today (Ingot, tool, block, and armor if they finished early)\
+Making ALL necessary textures for today (Ingot, tool, block, and armor if they finished early)
 
 ### 2:00pm - 2:30pm
-Creating GUI and the Block
+Break
 
 ### 2:30pm - 3:00pm
-(stem activity) Activity one, minecraft bingo! ( snack might also go here)
- 
+Minecraft Bingo
+
 ### 3:00pm - 4:00pm
 Creating ingot, ingot recipe and the Multitool (possibly tool recipe)
 
-### 4:00pm - 4:30pm
-Activity (Minecreaft pictionary/ pick up)
+### 4:00pm - 4:15pm
+Catch up, play in your world if caught up
 
 # Camp Day 2
 
@@ -40,8 +57,8 @@ Activity one "MAFIA" game
 ### 3:00pm - 4:00pm
 Entities step
 
-### 4:00pm - 4:30pm
-Activity / pick up
+### 4:00pm - 4:15pm
+Catch up, play in your world if caught up
 
 # Camp Day 3
 
@@ -62,10 +79,11 @@ endercookie
 and recipe
 
 ### 3:00pm - 4:00pm
+possible lootbox
 
+### 4:00pm - 4:15pm
+Catch up, play in your world if caught up
 
-### 4:00pm - 4:30pm
-Connect 4 tournament/ pick up
 
 # Camp Day 4
 
@@ -87,8 +105,8 @@ Lootblock!
 ### 3:00pm - 4:00pm
 Biomes!
 
-### 4:00pm - 4:30pm
-MAFIA game/ pick up
+### 4:00pm - 4:15pm
+Catch up, play in your world if caught up
 
 # Camp Day 5
 
@@ -110,5 +128,5 @@ dimension
 ### 3:00pm - 4:00pm
 free play in your modded minecraft
 
-### 4:00pm - 4:30pm
-MAFIA game/ pick up
+### 4:00pm - 4:15pm
+Catch up, play in your world if caught up
